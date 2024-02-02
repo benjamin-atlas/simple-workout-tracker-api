@@ -2,6 +2,14 @@ GET http://localhost:3000/programs
 
 ###
 
+GET http://localhost:3000/templates
+
+###
+
+GET http://localhost:3000/video-links
+
+###
+
 PUT http://localhost:3000/programs/65bc696145b214e44a1ef598
 Content-Type: application/json
 
